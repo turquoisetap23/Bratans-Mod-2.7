@@ -1,0 +1,9 @@
+!WARNING! This project contains NSFW content - user discretion is advised
+Certain mod audio won't work if _my_sounds -> install_sounds.bat is not run
+
+1) locate "_my_sounds" folder (should be included in ZIP file)
+2) Open Roblox Place file (BRATANS MOD 2.7.rbxl)
+3) Run install_sounds.bat with the Roblox Place open (BRATANS MOD 2.7)
+4) Run test, all custom sounds should now work!
+
+THE GAME WILL STILL WORK IF THE .bat FILE DOES NOT ADD CUSTOM AUDIO

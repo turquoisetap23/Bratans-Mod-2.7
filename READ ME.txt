@@ -1,0 +1,7 @@
+!WARNING! This project contains NSFW content - user discretion is advised
+
+I don't remember how I got a hold of this original file, but I did. I spent a lot of time on my own (mostly with Claude's help lol) trying to improve the "gameplay" (more of a simulator). This is the current result, and I'm not planning on stopping...
+
+Credit to bratan221 for the original place file.
+
+THE GAME WILL STILL WORK IF THE .bat FILE DOES NOT ADD CUSTOM AUDIO
